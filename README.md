@@ -1,2 +1,2 @@
 Newton-resume
-This is my digital resume built with html and css
+This is my digital resume built with html, css and Javascript
